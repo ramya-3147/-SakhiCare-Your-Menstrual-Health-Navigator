@@ -1,0 +1,16 @@
+{
+  "number": 21,
+  "id": "health_navigation",
+  "title": "🏥 Health Navigation",
+  "type": "dropdown",
+  "label": "🏥 What kind of support are you looking for?",
+  "options": [
+    "📚 Learn more",
+    "👨‍👩‍👧 Talk to a trusted adult",
+    "🩺 Prepare to speak with a healthcare professional",
+    "🚨 I think I need urgent help",
+    "📝 Prepare questions for an appointment",
+    "🔄 Review my information"
+  ],
+  "rule": "Use the selection to guide the user to an appropriate support category. Do not invent local emergency contacts."
+}
