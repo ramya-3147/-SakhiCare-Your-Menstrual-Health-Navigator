@@ -1,0 +1,16 @@
+{
+  "number": 17,
+  "id": "check_my_answers",
+  "title": "📝 Check My Answers",
+  "type": "confirmation",
+  "sections": [
+    "You told SakhiCare",
+    "SakhiCare understood"
+  ],
+  "confirmation_options": [
+    "✅ Correct",
+    "✏️ Something needs to be changed",
+    "❓ I'm not sure"
+  ],
+  "rule": "Do not continue with a definitive interpretation if the user indicates the summary is incorrect."
+}
