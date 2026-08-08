@@ -1,0 +1,18 @@
+{
+  "number": 19,
+  "id": "privacy_center",
+  "title": "🔐 SakhiCare Privacy Center",
+  "type": "information_panel",
+  "sections": {
+    "What you share": "Only information needed for this interaction.",
+    "Why it is used": "To organize your health concern and provide general health-navigation guidance.",
+    "SakhiCare does not": [
+      "Diagnose medical conditions",
+      "Replace healthcare professionals",
+      "Guarantee medical outcomes",
+      "Invent medical history",
+      "Pretend to know information you did not provide"
+    ]
+  },
+  "action": "Clear My Journey"
+}
