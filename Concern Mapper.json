@@ -1,0 +1,22 @@
+{
+  "number": 8,
+  "id": "concern_mapper",
+  "title": "🧭 Concern Mapper",
+  "type": "ai_summary",
+  "sections": [
+    "Primary concern",
+    "Cycle timing",
+    "Different from usual",
+    "Symptoms selected",
+    "When noticed",
+    "What we know",
+    "What we don't know"
+  ],
+  "confirmation_label": "Does this summary accurately describe your concern?",
+  "confirmation_options": [
+    "✅ Yes, continue",
+    "✏️ Edit my answers"
+  ],
+  "rule": "Use only user-provided selections and text. Never invent symptoms, dates, history, or test results.",
+  "next_step": "Safety Gate"
+}
