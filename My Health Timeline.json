@@ -1,0 +1,13 @@
+{
+  "number": 18,
+  "id": "health_timeline",
+  "title": "📅 My Health Timeline",
+  "type": "timeline",
+  "purpose": "Help users organize their own reported health information.",
+  "fields": [
+    "Date or user-provided time",
+    "Concern or event",
+    "User-provided note"
+  ],
+  "rule": "Never infer dates, events, symptoms, or medical history."
+}
