@@ -1,0 +1,14 @@
+{
+  "number": 10,
+  "id": "why_this_guidance",
+  "title": "🔎 Why Am I Seeing This?",
+  "type": "expandable_ai_output",
+  "sections": [
+    "You told us",
+    "This matters because",
+    "What remains uncertain",
+    "Important"
+  ],
+  "important": "This is health-navigation guidance, not a diagnosis.",
+  "rule": "Explain the recommendation using only the user's reported information."
+}
