@@ -1,0 +1,22 @@
+{
+  "number": 20,
+  "id": "ai_boundary",
+  "title": "🤖 What SakhiCare Can and Cannot Do",
+  "type": "information_panel",
+  "can_do": [
+    "Explain general menstrual-health information",
+    "Organize the user's answers",
+    "Identify missing information",
+    "Provide next-step categories",
+    "Help prepare questions",
+    "Create a consultation summary"
+  ],
+  "cannot_do": [
+    "Diagnose",
+    "Confirm a medical condition",
+    "Prescribe medication",
+    "Recommend medication doses",
+    "Guarantee that a symptom is harmless",
+    "Replace a healthcare professional"
+  ]
+}
