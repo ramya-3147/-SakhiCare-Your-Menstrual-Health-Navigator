@@ -1,0 +1,15 @@
+{
+  "number": 11,
+  "id": "explain_differently",
+  "title": "📖 Explain It Differently",
+  "type": "dropdown",
+  "label": "📖 How would you like the explanation?",
+  "options": [
+    "📘 Standard explanation",
+    "🌱 Simple explanation",
+    "🎓 Student-friendly explanation",
+    "🇮🇳 తెలుగు explanation"
+  ],
+  "rule": "Use clear, age-appropriate language and avoid unnecessary medical terminology.",
+  "next_step": "My Next Step"
+}
