@@ -1,0 +1,15 @@
+{
+  "number": 12,
+  "id": "my_next_step",
+  "title": "🎯 My Next Step",
+  "type": "ai_guidance",
+  "sections": [
+    "Understand",
+    "Observe",
+    "Discuss",
+    "Act",
+    "Prepare"
+  ],
+  "rule": "Provide navigation and educational guidance, not diagnosis, prescriptions, or medication doses.",
+  "priority": "If the safety gate indicates urgency, prioritize appropriate medical help and telling a trusted adult."
+}
