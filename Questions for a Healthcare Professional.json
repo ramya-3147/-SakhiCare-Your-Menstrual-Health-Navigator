@@ -1,0 +1,15 @@
+{
+  "number": 13,
+  "id": "professional_questions",
+  "title": "📝 Questions for a Healthcare Professional",
+  "type": "ai_generated_questions",
+  "label": "📝 Questions I Can Ask",
+  "example_questions": [
+    "What information should I track?",
+    "Could there be several possible reasons for this change?",
+    "What changes should I tell you about?",
+    "When should I seek further help?",
+    "What should I monitor over the next few days or cycles?"
+  ],
+  "rule": "Generate questions based only on the user's reported concern. Do not generate a diagnosis."
+}
