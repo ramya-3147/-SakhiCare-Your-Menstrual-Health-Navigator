@@ -1,0 +1,16 @@
+{
+  "number": 15,
+  "id": "information_readiness",
+  "title": "🧭 Information Readiness",
+  "type": "progress_indicator",
+  "label": "How clearly can we understand your concern?",
+  "tracks": [
+    "Main concern",
+    "Cycle timing",
+    "Change from usual",
+    "Symptoms",
+    "When noticed"
+  ],
+  "example": "4 of 5 key details provided",
+  "rule": "This is an information-completeness indicator, not a health or risk score."
+}
