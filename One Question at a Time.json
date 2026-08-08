@@ -1,0 +1,13 @@
+{
+  "number": 16,
+  "id": "one_question_at_a_time",
+  "title": "💡 One Question at a Time",
+  "type": "progressive_question",
+  "purpose": "Ask only the most relevant missing question instead of presenting many questions at once.",
+  "example_questions": [
+    "When did you first notice this change?",
+    "Is this different from your usual period experience?",
+    "Are there any other symptoms you want to mention?"
+  ],
+  "rule": "Ask only for information relevant to the user's selected concern and avoid unnecessary personal questions."
+}
