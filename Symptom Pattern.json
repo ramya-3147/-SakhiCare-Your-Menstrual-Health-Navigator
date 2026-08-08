@@ -1,0 +1,17 @@
+{
+  "number": 6,
+  "id": "symptom_pattern",
+  "title": "📈 Symptom Pattern",
+  "type": "dropdown",
+  "label": "📈 How would you describe the change?",
+  "options": [
+    "About the same as usual",
+    "A little different",
+    "Noticeably different",
+    "Much more concerning than usual",
+    "I'm not sure"
+  ],
+  "supporting_text": "Choose the option that best describes how the experience compares with your usual pattern.",
+  "rule": "This is a descriptive self-report and not a medical severity score.",
+  "next_step": "When Did You Notice It?"
+}
