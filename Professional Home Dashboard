@@ -1,0 +1,30 @@
+{
+  "app": {
+    "name": "SakhiCare",
+    "title": "🌸 SakhiCare",
+    "subtitle": "Health: From Confusion to the Right Next Step",
+    "category": "Menstrual Health",
+    "description": "Describe your menstrual-health concern, choose the details that apply, and receive clear health-navigation guidance. SakhiCare provides educational guidance and does not diagnose medical conditions.",
+    "dashboard": {
+      "type": "professional_health_dashboard",
+      "header": {
+        "icon": "🌸",
+        "title": "SakhiCare",
+        "subtitle": "Health: From Confusion to the Right Next Step"
+      },
+      "supporting_text": "Describe your menstrual-health concern, choose the details that apply, and receive clear health-navigation guidance. SakhiCare provides educational guidance and does not diagnose medical conditions.",
+      "primary_action": {
+        "label": "Start Your Health Check",
+        "description": "Select the details that best describe your current menstrual-health concern."
+      }
+    },
+    "safety_notice": {
+      "title": "🛡️ Important",
+      "message": "SakhiCare provides general health-navigation and educational guidance. It does not diagnose medical conditions or replace a qualified healthcare professional."
+    },
+    "next_section": {
+      "title": "🩸 What are you experiencing?",
+      "type": "dropdown"
+    }
+  }
+}
