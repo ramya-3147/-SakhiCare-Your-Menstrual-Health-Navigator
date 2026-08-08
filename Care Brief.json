@@ -1,0 +1,17 @@
+{
+  "number": 14,
+  "id": "care_brief",
+  "title": "🌸 My Care Brief",
+  "type": "ai_summary",
+  "sections": [
+    "MAIN CONCERN",
+    "WHAT I NOTICED",
+    "CYCLE INFORMATION",
+    "SYMPTOMS I REPORTED",
+    "WHEN I NOTICED IT",
+    "QUESTIONS I WANT TO ASK",
+    "MY NEXT STEP"
+  ],
+  "disclaimer": "This summary organizes the information you provided. It is not a medical diagnosis.",
+  "rule": "Include only user-provided information and clearly labeled AI-generated questions or navigation guidance."
+}
