@@ -1,0 +1,27 @@
+{
+  "widget": {
+    "id": "main_menstrual_health_concern",
+    "type": "dropdown",
+    "title": "💬 What Are You Experiencing?",
+    "label": "🩸 Select your main menstrual-health concern",
+    "options": [
+      "🩸 Period started earlier than expected",
+      "🩸 Period started later than expected",
+      "📅 Period has not started yet",
+      "🔄 Cycle is different from usual",
+      "😣 Cramps or abdominal discomfort",
+      "🩸 Bleeding seems different from usual",
+      "💧 Discharge or vaginal-health concern",
+      "😴 Feeling unusually tired",
+      "🤕 Headache or feeling unwell around the period",
+      "😟 Mood or emotional changes around the period",
+      "📊 Unsure about my cycle pattern",
+      "❓ Something else"
+    ],
+    "supporting_text": "Choose the option that best describes your main concern. You can add more information in the next step.",
+    "professional_design_rule": "Do not force the user to write a long medical description before they can continue.",
+    "required": true,
+    "allow_custom_option": true,
+    "next_step": "Cycle Timing"
+  }
+}
