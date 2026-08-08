@@ -1,0 +1,18 @@
+{
+  "number": 7,
+  "id": "when_first_noticed",
+  "title": "⏱️ When Did You Notice It?",
+  "type": "dropdown",
+  "label": "⏱️ When did you first notice this concern?",
+  "options": [
+    "Today",
+    "Within the last few days",
+    "About a week ago",
+    "More than a week ago",
+    "It has happened across several cycles",
+    "I'm not sure"
+  ],
+  "supporting_text": "Choose the option that best describes when you first noticed the concern.",
+  "rule": "Do not infer dates or duration that the user did not provide.",
+  "next_step": "Concern Mapper"
+}
