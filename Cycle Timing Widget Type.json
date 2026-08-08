@@ -1,0 +1,22 @@
+{
+  "widget": {
+    "id": "cycle_timing",
+    "type": "dropdown",
+    "title": "🗓️ Cycle Timing",
+    "label": "📅 What best describes your current cycle?",
+    "options": [
+      "My period is on time",
+      "My period is a few days earlier than expected",
+      "My period is a few days later than expected",
+      "My period is significantly later than expected",
+      "My period has not started yet",
+      "I'm not sure when my period was expected",
+      "I don't track my cycle"
+    ],
+    "required": true,
+    "important_note": "Do not treat a selected option as a diagnosis. The selection only describes the user's reported cycle timing.",
+    "supporting_text": "Choose the option that best describes your current cycle timing.",
+    "professional_design_rule": "Use this selection only to organize the user's reported cycle information. Do not interpret it as a diagnosis or medical risk score.",
+    "next_step": "Change From Usual"
+  }
+}
