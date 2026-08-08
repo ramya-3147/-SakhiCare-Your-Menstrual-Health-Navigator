@@ -1,0 +1,25 @@
+{
+  "number": 9,
+  "id": "safety_gate",
+  "title": "🛡️ Safety Gate",
+  "type": "ai_classification",
+  "levels": {
+    "green": {
+      "label": "🟢 LEARN",
+      "meaning": "General educational information may be appropriate based on the information provided.",
+      "message": "Your answers do not indicate an obvious urgent situation from the information provided. You can review general information and continue monitoring how you feel."
+    },
+    "yellow": {
+      "label": "🟡 DISCUSS",
+      "meaning": "The concern may be worth discussing with a trusted adult or healthcare professional.",
+      "message": "Your concern may be worth discussing with a trusted adult or healthcare professional, especially if it continues, becomes more concerning, or is different from your usual experience."
+    },
+    "red": {
+      "label": "🔴 ACT",
+      "meaning": "Prompt medical attention may be appropriate.",
+      "message": "Some symptoms can require prompt medical attention. Tell a trusted adult and seek appropriate medical care promptly."
+    }
+  },
+  "critical_rule": "Never present a safety level as a diagnosis. Do not claim certainty.",
+  "next_step": "Why This Guidance?"
+}
