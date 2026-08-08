@@ -1,0 +1,23 @@
+{
+  "widget": {
+    "id": "change_from_usual",
+    "type": "dropdown",
+    "title": "🔄 Change From Usual",
+    "label": "🔄 Is this different from your usual period experience?",
+    "options": [
+      "No, this is normal for me",
+      "Slightly different",
+      "Noticeably different",
+      "Very different from usual",
+      "I'm not sure"
+    ],
+    "required": true,
+    "why_this_widget_matters": {
+      "title": "Why this widget matters",
+      "description": "The app should distinguish between what is normal for the individual user and what is a new or unusual change."
+    },
+    "supporting_text": "Choose the option that best describes how this experience compares with your usual period experience.",
+    "professional_design_rule": "Use this response to understand the user's reported change from their usual experience. Do not treat the selection as a diagnosis or medical risk score.",
+    "next_step": "Symptom Selection"
+  }
+}
